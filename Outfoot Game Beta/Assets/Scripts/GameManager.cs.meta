@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c5b9c0a901989c4e88553ee4b0baf8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverCanvas: {instanceID: 0}
+  - score: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - OkButton: {instanceID: 0}
+  - tapToStart: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

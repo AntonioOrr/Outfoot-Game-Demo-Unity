@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Column
+  - Pipe
+  - Enemy
+  - Bullet
+  - Offscreen
+  - Enemy+
+  - EnemyBird
+  - EnemyBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1022645017
+    locked: 0
+  - name: Midground
+    uniqueID: 2252272517
+    locked: 0
+  - name: Player
+    uniqueID: 2208754483
+    locked: 0
+  - name: Foreground
+    uniqueID: 30778675
+    locked: 0
+  - name: Canvas
+    uniqueID: 4218651523
+    locked: 0
+  - name: Effects
+    uniqueID: 3764610167
+    locked: 0
